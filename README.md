@@ -3,7 +3,7 @@
 <div align="center">
    <img style="width:100px; height:100px;" src="https://i.ibb.co/pvnfhfC/logo.png" alt="logo" ></a>
 <h1>Hi 👋, I'm LAVEN</h1>
-    <p>I'm a student developer</br>경북소프트웨어고등학교 개발자입니다</p>
+    <p>I'm a student developer</br>경북소프트웨어고등학교 17세 개발자입니다</p>
     </div>
      <p>
       <li>🌱 I’m currently learning : C, C++, Java, HTML, CSS, Javascript</li>
