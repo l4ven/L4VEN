@@ -33,7 +33,7 @@
 </a>
              <h2>📚 Contact</h2>
         </a>
-         <a href="https://discord.com">
+         <a href="https://discord.com/users/536079116450004993">
     <img 
         src="https://img.shields.io/badge/Discord-764dff?style=for-the-badge&logo=discord&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
