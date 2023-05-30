@@ -7,6 +7,11 @@
         style="height: auto; margin-left: 10px; margin-right: 10px"
       />
     </a>
+<a href="">
+    <img 
+        src="https://img.shields.io/badge/-HTML-red?style-flat-square&logo=html5"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
     <h2>Contact</h2>
     <p>
       <a href="mailto:"pllo13551@gmail.com">Email : </a>
