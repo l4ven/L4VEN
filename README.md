@@ -4,8 +4,9 @@
     <p>I'm a student developer</br>경북소프트웨어고등학교 개발자입니다</p>
     </div>
      <p>
-      <li>📫 Email: <a href="mailto:"pllo13551@gmail.com">pllo13551@gmail.com</a> </li>
-                                           <li>Discord : LAVEN#2222</li>
+      <li>🌱 I’m currently learning : C, C++, Java, HTML, CSS, Javascript</li>
+      <li>✨ My hobby : PS</li>
+      <li>📫 Email: <a href="mailto:"pllo13551@gmail.com">pllo13551@gmail.com</a></li>
     </p>
     <h2>📚 Skills</h2>
     <a href="">
@@ -29,4 +30,7 @@
         src="https://img.shields.io/badge/JavaScript-fae037?style=for-the-badge&logo=javascript&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+         
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=laven)](https://solved.ac/laven/)
+     
                                      
