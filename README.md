@@ -3,7 +3,7 @@
     <h2>Skills</h2>
     <a href="">
       <img
-        src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white"
+        src="https://img.shields.io/badge/C-3ec990?style=for-the-badge&logo=C&logoColor=white"
         style="height: auto; margin-left: 10px; margin-right: 10px"
       />
     </a>
