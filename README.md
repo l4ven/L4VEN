@@ -1,8 +1,13 @@
 <div align="center">
-    <img src = <img width="80%" src="https://github.com/L4VEN/L4VEN/assets/109652025/b2a07073-98db-4f98-b5e9-f842214eb2ab"/>
-<h1>Hello there 👋</h1>
-    <p>I'm a student developer</p>
-    <h2>Skills</h2>
+   <img style="width:100px; height:100px;" src="https://i.ibb.co/pvnfhfC/logo.png" alt="logo" ></a>
+<h1>Hi 👋, I'm LAVEN</h1>
+    <p>I'm a student developer</br>경북소프트웨어고등학교 개발자입니다</p>
+    </div>
+     <p>
+      <li>📫 Email: <a href="mailto:"pllo13551@gmail.com">pllo13551@gmail.com</a> </li>
+                                           <li>Discord : LAVEN#2222</li>
+    </p>
+    <h2>📚 Skills</h2>
     <a href="">
       <img
         src="https://img.shields.io/badge/C-3ec990?style=for-the-badge&logo=C&logoColor=white"
@@ -24,10 +29,4 @@
         src="https://img.shields.io/badge/JavaScript-fae037?style=for-the-badge&logo=javascript&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-    <h2>Contact</h2>
-    <p>
-      <a href="mailto:"pllo13551@gmail.com">Email : </a>
-      pllo13551@gmail.com <br />
-      Discord : LAVEN#2222
-    </p>
-                                           </div>
+                                     
