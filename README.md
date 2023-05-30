@@ -1,5 +1,5 @@
 <h1>Hello there 👋</h1>
-    <p>I'm a school developer</p>
+    <p>I'm a student developer</p>
     <h2>Skills</h2>
     <a href="">
       <img
