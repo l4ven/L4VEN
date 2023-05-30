@@ -1,3 +1,5 @@
+<div align="center">
+    <img src = <img width="80%" src="https://github.com/L4VEN/L4VEN/assets/109652025/b2a07073-98db-4f98-b5e9-f842214eb2ab"/>
 <h1>Hello there 👋</h1>
     <p>I'm a student developer</p>
     <h2>Skills</h2>
@@ -28,3 +30,4 @@
       pllo13551@gmail.com <br />
       Discord : LAVEN#2222
     </p>
+                                           </div>
