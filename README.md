@@ -1,4 +1,4 @@
-### 멍청한 수환 🦑
+### 🦑
 <a href="">
     <img 
         src="https://img.shields.io/badge/-C-red?style-flat-square&logo=C"
