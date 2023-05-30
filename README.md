@@ -3,23 +3,23 @@
     <h2>Skills</h2>
     <a href="">
       <img
-        src="https://img.shields.io/badge/-C-MediumSeaGreen?style-flat-square&logo=C&logoColor=white"
+        src="https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=C&logoColor=white"
         style="height: auto; margin-left: 10px; margin-right: 10px"
       />
     </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-HTML5-red?style-flat-square&logo=html5&logoColor=white"
+        src="https://img.shields.io/badge/HTML5-ed6047?style=for-the-badge&logo=html5&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-CSS-blue?style-flat-square&logo=css3&logoColor=white"
+        src="https://img.shields.io/badge/CSS-5583e6?style=for-the-badge&logo=css3&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="">
     <img 
-        src="https://img.shields.io/badge/-JavaScript-yellow?style-flat-square&logo=javascript&logoColor=white"
+        src="https://img.shields.io/badge/JavaScript-fae037?style=for-the-badge&logo=javascript&logoColor=black"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     <h2>Contact</h2>
