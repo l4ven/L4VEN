@@ -36,6 +36,7 @@ Want to know more about me? <a href="">Check out my portfolio.</a>
 
 ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=laven)
 ![github stats](https://github-readme-stats.vercel.app/api?username=l4ven)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4ven&layout=compact)
 
 <h2>💼 Skills</h2>
 <a href="">
