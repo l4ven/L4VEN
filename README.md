@@ -1,18 +1,18 @@
 <div>
 <img width="100%" src="https://i.ibb.co/MG7VxKD/Frame-1-4.png" alt="Frame-1-4" alt="Banner">
 <br>
- <a href="https://probable-tithonia-17b.notion.site/Han-Kang-42ed1592150b4599b88bc598eb0cb167?pvs=4">    
+ <a href="https://probable-tithonia-17b.notion.site/Han-Kang-42ed1592150b4599b88bc598eb0cb167?pvs=4" target="_blank">    
       <img 
          src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&logo=notion&logoColor=white"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
  </a>
-   <a href="https://discord.com/users/536079116450004993">    
+   <a href="https://discord.com/users/536079116450004993" target="_blank">    
     <img 
         src="https://img.shields.io/badge/Discord-764dff?style=for-the-badge&logo=discord&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     
-<a href="https://www.instagram.com/1ave.n/">
+<a href="https://www.instagram.com/1ave.n/" target="_blank">
     <img 
         src="https://img.shields.io/badge/Instagram-eb347a?style=for-the-badge&logo=instagram&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
