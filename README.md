@@ -8,7 +8,7 @@
  </a>
    <a href="https://discord.com/users/536079116450004993" target="_blank">    
     <img 
-        src="https://img.shields.io/badge/Discord-764dff?style=for-the-badge&logo=discord&logoColor=white"
+        src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     
