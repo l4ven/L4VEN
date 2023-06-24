@@ -1,5 +1,5 @@
 <div>
-<img width="100%" src="https://i.ibb.co/MG7VxKD/Frame-1-4.png" alt="Frame-1-4" alt="Banner">
+<img src="" alt="Banner">
 <br>
  <a href="" target="_blank">    
       <img 
