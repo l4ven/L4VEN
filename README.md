@@ -1,5 +1,5 @@
 <div>
-<img src="" alt="Banner">
+<img src="" alt="">
 <br>
  <a href="" target="_blank">    
       <img 
