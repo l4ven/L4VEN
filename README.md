@@ -1,6 +1,4 @@
 <div>
-<img src="" alt="">
-<br>
  <a href="" target="_blank">    
       <img 
          src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&logo=notion&logoColor=white"
@@ -38,26 +36,6 @@ Want to know more about me? <a href="">Check out my portfolio.</a>
 ![github stats](https://github-readme-stats.vercel.app/api?username=l4ven)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4ven&layout=compact)
 
-<h2>💼 Skills</h2>
-<a href="">
-    <img
-        src="https://img.shields.io/badge/C-3ec990?style=for-the-badge&logo=C&logoColor=white"
-        style="height: auto; margin-left: 10px; margin-right: 10px"/>
-</a>
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/HTML5-ed6047?style=for-the-badge&logo=html5&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/CSS-5583e6?style=for-the-badge&logo=css3&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="">
-    <img 
-        src="https://img.shields.io/badge/JavaScript-fae037?style=for-the-badge&logo=javascript&logoColor=black"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
      
                                      
