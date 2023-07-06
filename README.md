@@ -22,13 +22,14 @@
 </a>
 </div>
 <p>
-   <br>
-   Hi there 👋
 
-I am LAVEN, a 16-year-old developer who wants to become a full-stack engineer specializing in front-end development. I make it my mission to develop pixel-perfect websites or applications with user-centered design that runs very fast.
+ ### Hi there 👋
+ 
+  <!--  
+I am LAVEN, a 16-year-old developer who wants to become a full-stack engineer specializing in front-end development. I make it my mission to develop pixel-perfect websites or applications with user-centered design that runs very fast.-->
 
-Want to know more about me? <a href="">Check out my portfolio.</a>
-<br>
+<!--Want to know more about me? <a href="">Check out my portfolio.</a>
+<br>-->
 </p>
 <h2>📈 Stats</h2>
 
