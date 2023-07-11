@@ -23,7 +23,7 @@
 </div>
 <p>
 
- ### Hi there 👋
+ ### Hello, World! 👋
  
   <!--  
 I am LAVEN, a 16-year-old developer who wants to become a full-stack engineer specializing in front-end development. I make it my mission to develop pixel-perfect websites or applications with user-centered design that runs very fast.-->
