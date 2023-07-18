@@ -34,8 +34,8 @@ I am LAVEN, a 16-year-old developer who wants to become a full-stack engineer sp
 <h2>📈 Stats</h2>
 
 ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=laven)
-![github stats](https://github-readme-stats.vercel.app/api?username=l4ven&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4ven&theme=nord)
+![github stats](https://github-readme-stats.vercel.app/api?username=l4ven)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4ven)
 
 
      
