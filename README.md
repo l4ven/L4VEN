@@ -37,6 +37,5 @@ I am LAVEN, a 16-year-old developer who wants to become a full-stack engineer sp
 ![github stats](https://github-readme-stats.vercel.app/api?username=l4ven)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l4ven)
 
-
-     
-                                     
+<hr>
+<table> <tr> </td> <td align="center"> <a href="https://github.com/dya-only" ><img src="https://avatars.githubusercontent.com/dya-only" width="100px" height="100px" /> <br />dya-only </a> </td> <td align="center"> <a href="https://github.com/hoit1011" ><img src="https://avatars.githubusercontent.com/hoit1011" width="100px" height="100px" /> <br />hoit1011 </a> </td> <td align="center"> <a href="https://github.com/806gw" ><img src="https://avatars.githubusercontent.com/806gw" width="100px" height="100px" /> <br />806gw </a> </td> <td align="center"> <a href="https://github.com/silofn523" ><img src="https://avatars.githubusercontent.com/silofn523" width="100px" height="100px" /> <br />silofn523 </a> </td> <td align="center"> <a href="https://github.com/jinseung0327 y" ><img src="https://avatars.githubusercontent.com/jinseung0327 " width="100px" height="100px" /> <br />jinseung0327 </a> </td> </tr> </table>           
