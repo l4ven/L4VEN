@@ -13,7 +13,7 @@ I am LAVEN, a 16-year-old developer who wants to become a full-stack engineer sp
 ![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=laven)
 
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4ven&show_icons=true&theme=transperent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4ven&show_icons=true&theme=dark)
 
 <br>
 <div>
