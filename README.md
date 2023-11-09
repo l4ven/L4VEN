@@ -1,5 +1,5 @@
 ### Hello, World! 👋
-<a>I am currently studying software development</a> at Gyeongbuk Software High School.
+I am currently studying software development at Gyeongbuk Software High School.
 
  
   <!--  
@@ -15,6 +15,7 @@ I am LAVEN, a 16-year-old developer who wants to become a full-stack engineer sp
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4ven&show_icons=true&theme=transperent)
 
+<br>
 <div>
  <a href="https://url.kr/nij6q2" target="_blank">
       <img 
