@@ -1,10 +1,12 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fl4ven&count_bg=%23202020&title_bg=%23404040&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/L4VEN)
+
 ### Hello, World! 👋
 
 <!-- Use banner
 https://www.canva.com/create/banners/
 -->
 
-#### [I am currently studying software development]() at Gyeongbuk Software High School. <br/>
+#### I am currently studying [software development](https://github.com/L4VEN) at Gyeongbuk Software High School. <br/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4ven&show_icons=true&theme=dark)
