@@ -10,7 +10,7 @@ https://www.canva.com/create/banners/
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4ven&show_icons=true&theme=dark)-->
-<img src="https://github-readme-stats.vercel.app/api?username=l4ven&theme=nightowl&bg_color=00000000&border_color=00000000" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4ven&layout=compact&theme=nightowl&bg_color=00000000&border_color=00000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=l4ven&theme=dark&bg_color=00000000&border_color=00000000" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4ven&layout=compact&theme=dark&bg_color=00000000&border_color=00000000" />
 
 
 <div>
