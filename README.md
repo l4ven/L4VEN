@@ -9,9 +9,10 @@ https://www.canva.com/create/banners/
 #### I am currently studying [software development](https://github.com/L4VEN) at Gyeongbuk Software High School. <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4ven&show_icons=true&theme=dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l4ven&show_icons=true&theme=dark)-->
+<img src="https://github-readme-stats.vercel.app/api?username=l4ven&theme=discord_old_blurple&bg_color=00000000&border_color=00000000" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l4ven&layout=compact&theme=discord_old_blurple&bg_color=00000000&border_color=00000000" />
 
-<br/>
+
 <div>
   <a href="https://url.kr/nij6q2" target="_blank">
     <img src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&logo=notion&logoColor=white"/>
