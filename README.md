@@ -20,7 +20,7 @@ https://www.canva.com/create/banners/
   <a href="https://discord.com/users/536079116450004993" target="_blank">    
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/1ave.n/" target="_blank">
+  <a href="https://www.instagram.com/laven_dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-eb347a?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:"pllo13551@gmail.com">    
