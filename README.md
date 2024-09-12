@@ -14,7 +14,7 @@
 </a>-->
 
 <div>
-  <a href="" target="_blank">
+  <a href="https://shorturl.at/VrbFX" target="_blank">
     <img src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/536079116450004993" target="_blank">    
