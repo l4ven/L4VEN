@@ -14,7 +14,7 @@
 </a>-->
 
 <div>
-  <a href="https://shorturl.at/VrbFX" target="_blank">
+  <a href="https://probable-tithonia-17b.notion.site/Han-Kang-14824b17aa56808fa09bdba0ccf1b81a?pvs=4" target="_blank">
     <img src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/536079116450004993" target="_blank">    
