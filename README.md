@@ -14,8 +14,8 @@
 </a>-->
 
 <div>
-  <a href="https://probable-tithonia-17b.notion.site/Han-Kang-14824b17aa56808fa09bdba0ccf1b81a?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-404040?style=for-the-badge&logo=notion&logoColor=white"/>
+  <a href="laven.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/536079116450004993" target="_blank">    
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
