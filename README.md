@@ -14,9 +14,9 @@
 </a>-->
 
 <div>
-  <a href="https://laven.vercel.app" target="_blank">
+<!--   <a href="https://laven.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-404040?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="https://discord.com/users/536079116450004993" target="_blank">    
     <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
